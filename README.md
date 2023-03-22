@@ -1,1 +1,2 @@
-# beta-auth-V0.0.1
+# BetaAuth Formerly AuthME
+Hi this is BetaAuth still in beta...
